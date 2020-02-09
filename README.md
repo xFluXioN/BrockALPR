@@ -7,11 +7,13 @@ Use NUM5 to turn on/off the radar
 Use NUM8 to freeze the radar (you can see when it's freezed)
 Use NUM4 to check owner of vehicle on front panel
 Use NUM6 to check owner of vehicle on rear panel
-It's full compatible with garage system which has owned_vehicles table.
+
+It's full compatible with garage system which has owned_vehicles table. 
+This version is fully optimized and taking about 0.02ms.
 
 # Installation
 Drag and drop. You also need to have owned_vehicles table in your DB.
-It has only polish translation so you have to change you for your needs.
+It has only polish translation so you have to change it for your needs.
 
 # License
 Like from author of this script:
