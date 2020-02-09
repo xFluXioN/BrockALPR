@@ -13,7 +13,7 @@ Use NUM4 to check owner of vehicle on front panel
 Use NUM6 to check owner of vehicle on rear panel
 
 It's full compatible with garage system which has owned_vehicles table. 
-This version is fully optimized and taking about 0.02ms.
+This version is fully optimized and taking about 0.02ms when turned off.
 
 # Installation
 Drag and drop. You also need to have owned_vehicles table in your DB.
@@ -26,3 +26,5 @@ Like from author of this script:
 "Anyone could modify this as they wish, just give credits if you plan on releasing, thank you."
 
 If you find a bug or if you get an error please make an issue at the Github page.
+
+https://medal.tv/clips/19008331/d1337gFkMvuJ
